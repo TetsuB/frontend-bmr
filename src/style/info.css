@@ -1,0 +1,35 @@
+.infoBmr {
+    position: absolute;
+    width: 821px;
+    height: 423px;
+    left: 590px;
+    top: 660px;
+}
+
+.infoTeks {
+    position: absolute;
+    left: 80px;
+    font-size: 38px;
+}
+
+.content1 {
+    position: absolute;
+    top: 96px;
+    left: 80px;
+}
+
+.content2 {
+    position: absolute;
+    top: 96px;
+    left: 489px;
+}
+
+.detail {
+    width: 393px;
+    height: 197px;
+    font-size: 14px;
+}
+
+.titleInfo {
+    font-size: 20px;
+}

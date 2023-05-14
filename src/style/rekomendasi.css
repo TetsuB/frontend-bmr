@@ -1,0 +1,29 @@
+body {
+    height: 300px;
+}
+
+.title1 {
+    position: absolute;
+    left: 106px;
+    top: 181px;
+}
+
+.cards {
+    display: flex;
+    gap: 36px;
+    margin-top: 235px;
+    margin-left: 105px;
+}
+
+.title2 {
+    position: absolute;
+    left: 106px;
+    top: 800px;
+}
+
+.cards2 {
+    display: flex;
+    gap: 36px;
+    margin-top: 150px;
+    margin-left: 105px;
+}
